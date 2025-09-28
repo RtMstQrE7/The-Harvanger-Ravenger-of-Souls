@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Fonts */
+@font-face {
+  font-family: 'Diabolica';
+  src: url('/Diabolica-VRBB.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BeastOfRage';
+  src: url('/BeastOfRage-BlA3.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Custom utility classes for fonts */
+.font-diabolica {
+  font-family: 'Diabolica', serif;
+}
+
+.font-beast-of-rage {
+  font-family: 'BeastOfRage', sans-serif;
+}
+
+/* Game title styling */
+.game-title {
+  font-family: 'Diabolica', serif;
+  color: #dc2626; /* red-600 */
+  font-weight: bold;
+  text-decoration: underline;
+}
+

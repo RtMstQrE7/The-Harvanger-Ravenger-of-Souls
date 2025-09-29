@@ -1,8 +1,9 @@
-# Magic: The Gathering Clone - Offline Edition
+# The-Harvanger-Ravenger-of-Souls
 
-A standalone, offline version of the Magic: The Gathering card game clone with full asset editing capabilities and no internet requirements.
+The-Harvanger-Ravenger-of-Souls game was inspired by and at first based of card game Magic The Gathering
+A standalone, offline version of The-Harvanger-Ravenger-of-Souls card game clone with full asset editing capabilities and no internet requirements.
 
-## 🎮 Quick Start
+How to run the downloadable offline version ### 🎮 Quick Start
 
 ### Option 1: Simple HTTP Server (Recommended)
 1. Open a terminal/command prompt in this folder
@@ -146,5 +147,5 @@ magic-game-offline/
 
 ---
 
-**Enjoy creating and playing your custom Magic: The Gathering experience offline!**
+**Enjoy creating and playing your The-Harvanger-Ravenger-of-Souls experience offline!**
 

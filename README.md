@@ -1,6 +1,7 @@
-# Magic: The Gathering Clone - Offline Edition
+# The-Harvanger-Ravenger-of-Souls
+is inspired or partial clone of the concept of the card game:  "Magic The Gathering" And this is the offline version both version still in early release beta form And still under debugging and review - Created by George Roby @ RnR Productions - Intial coding by Manus Ai
 
-A standalone, offline version of the Magic: The Gathering card game clone with full asset editing capabilities and no internet requirements.
+A standalone, offline version of: "The Harvanger Ravenger of Souls" card game clone with full asset editing capabilities and no internet requirements.
 
 ## 🎮 Quick Start
 
@@ -20,7 +21,7 @@ A standalone, offline version of the Magic: The Gathering card game clone with f
 ## ✨ Features
 
 ### 🎯 Complete Offline Gameplay
-- Full Magic: The Gathering game mechanics
+- Full The Harvanger Ravenger of Souls game mechanics
 - AI opponent with strategic decision-making
 - No authentication required - instant play
 - All game rules implemented (mulligan, dice rolls, phases)

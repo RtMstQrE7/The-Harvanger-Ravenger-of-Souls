@@ -1,7 +1,7 @@
 # The-Harvanger-Ravenger-of-Souls
 
-The-Harvanger-Ravenger-of-Souls game was inspired by and at first based of card game Magic The Gathering
-A standalone, offline version of The-Harvanger-Ravenger-of-Souls card game clone with full asset editing capabilities and no internet requirements.
+The-Harvanger-Ravenger-of-Souls game was inspired by and at first based on the card game Magic The Gathering
+A standalone, offline version of The-Harvanger-Ravenger-of-Souls card can be downloaded with full asset editing capabilities and no internet requirements.
 
 How to run the downloadable offline version ### 🎮 Quick Start
 
